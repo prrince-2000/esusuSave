@@ -2,7 +2,7 @@
   "name": "naira",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://prrince-2000.github.io",
+  "homepage": "https://prrince-2000.github.io/Naira-App/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
