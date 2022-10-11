@@ -8,7 +8,7 @@ export const homeObjOne = {
     description: 'Get access to our exclusive app that allows you to send unlimited transactions without getting charged any fees.',
     buttonLabel: 'Get Started',
     imgStart: false,
-    img: require('../../images/svg_2.svg').default,
+    img: require('../../images/img-4.svg').default,
     alt: 'Car',
     dark: true,
     primary: true,
@@ -25,10 +25,10 @@ export const homeObjTwo = {
     description: 'We got you covered no where you are located. All you need is a computer or phone and an internet connection.',
     buttonLabel: 'Learn More',
     imgStart: true,
-    img: require('../../images/svg_4.svg').default,
+    img: require('../../images/img-1.svg').default,
     alt: 'piggy-bank',
     dark: false,
-    primary: false,
+    primary: true,
     darkText: true,
 }
 
@@ -42,9 +42,9 @@ export const homeObjThree = {
     description: "Get everything ready and set-up under 10 minutes. All you need to do is add your information and you're good to go.",
     buttonLabel: 'Start Now',
     imgStart: false,
-    img: require('../../images/svg_1.svg').default,
+    img: require('../../images/img-2.svg').default,
     alt: 'Paper',
     dark: false,
-    primary: false,
+    primary: true,
     darkText: true,
 }

@@ -15,7 +15,7 @@ const HeroSection = () => {
             <VideoBg autoPlay loop muted src={Video} type='video/mp4'/>
         </HeroBg>
         <HeroContent>
-            <HeroH1>Virtual Banking Made Easy.</HeroH1>
+            <HeroH1>Digitizing Thrift Savings Scheme.</HeroH1>
             <HeroP>Sign up for a new account and recieve #2500 in credit toward your next payment.</HeroP>
         </HeroContent>
         <HeroBtnWrapper>
@@ -25,4 +25,4 @@ const HeroSection = () => {
   )
 }
 
-export default HeroSection
+export default HeroSection;

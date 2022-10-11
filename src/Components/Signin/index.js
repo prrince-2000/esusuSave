@@ -6,7 +6,7 @@ const SignIn = () => {
     <>
         <Container>
             <FormWrap>
-                <Icon to = '/'>Naira</Icon>
+                <Icon to = '/'>esusu<span className='span'>Africa</span></Icon>
                     <FormContent>
                         <Form action='#'>
                             <FormH1>Sign in to your account.</FormH1>
@@ -15,7 +15,7 @@ const SignIn = () => {
                             <FormLabel htmlFor='for'>Password</FormLabel>
                             <FormInput type='password' required/>
                             <FormBotton type='submit'>Submit</FormBotton>
-                            <Text>Forgot password? </Text>
+                            <Text to = '/'><Text>Forgot password? | </Text><Text>Sign-up</Text></Text>
                         </Form>
                     </FormContent>
             </FormWrap>
