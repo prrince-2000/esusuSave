@@ -107,8 +107,5 @@ export const Text = styled.span`
     margin-top: 24px;
     color: #fff;
     font-size: 14px;
-
-    &:hover{
-        color: #01bf71;
-    }
+    cursor: pointer;
 `;
